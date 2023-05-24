@@ -9,3 +9,10 @@ for (let i=1; i <= n; i++) {
 }
 console.log( num );
 
+
+O/P:-
+ 1 
+ 12 
+ 123 
+ 1234 
+ 12345
